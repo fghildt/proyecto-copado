@@ -1,14 +1,8 @@
 language: java
 install: true
 
-os: osx
-
-before_install:
-  - brew install git-lfs
-
-before_script:
-  - git lfs pull
-
+os: linux
+dist: trusty
 jdk: oraclejdk11
 
 script:
