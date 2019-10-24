@@ -9,6 +9,6 @@ import org.junit.Test;
 public class AppTest {
     @Test public void testAppHasAGreeting() {
         App classUnderTest = new App();
-        assertNull("app should have a greeting", classUnderTest.getGreeting());
+        assertNotNull("app should have a greeting", classUnderTest.getGreeting());
     }
 }

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd269f78-91fd-4f99-83fc-e8437bf19082" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ar/com/meli/proyecto/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ar/com/meli/proyecto/AppTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -144,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571860307964</updated>
-      <workItem from="1571860311457" duration="2733000" />
+      <workItem from="1571860311457" duration="2821000" />
     </task>
     <servers />
   </component>
